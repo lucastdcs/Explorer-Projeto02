@@ -1,0 +1,125 @@
+/*global============================*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    min-height: 100vh;
+    background: linear-gradient(180deg, rgba(227, 255, 248, 0) 
+    82.08%, rgba(227, 255, 248, 0.38) 100%);
+}
+
+/*text============================*/
+ul,
+h1 {
+    font-family: 'Mulish', sans-serif;
+}
+
+ul li:hover {
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 49px;
+    line-height: 56px;
+    color: #000000;
+    font-weight: normal;
+}
+
+span {
+    color: #89C5CC;
+    font-weight: bold;
+}
+
+button {
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+p {
+    font-size: 14px;
+    line-height: 28px;
+    color: #7D7987;
+}
+
+.text{    
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    margin-bottom: 40px;
+}
+/*page============================*/
+
+.page {
+    width: 1000px;
+    margin: 65px auto 0;
+}
+
+/*header============================*/
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 55px;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    gap: 48px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+/*main============================*/
+
+main {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 65px ;
+    
+}
+/*btn============================*/
+button{
+    width: 178px;
+    height: 56px;
+    padding: 14px 32px;
+    border-style: none;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    color: white;
+    background-color:  #69B99D;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color:  #69b99dee;
+    border: 2px solid #69B99D;
+}
+/*footer============================*/
+
+footer{
+    text-align: center;
+    margin-top: 80px;
+    font-size: 14px;
+    line-height: 28px;
+}
+
+footer a {
+    font-weight: bold;
+}
+
+.balls {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+}
