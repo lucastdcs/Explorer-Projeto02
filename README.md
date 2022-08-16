@@ -1,7 +1,7 @@
 
 # Ambientes únicos para você
 
-Este é o projeto 01 do Explorer, curso da Rocketseat 😄
+Este é o projeto 02 do Explorer, curso da Rocketseat 😄
 
 Ao construir esta aplicação, aprendi e revisei os seguintes pontos:
 
