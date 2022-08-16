@@ -1,5 +1,5 @@
 
-# Ambientes únicos para você
+# Treinos exclusivos para você!
 
 Este é o projeto 02 do Explorer, curso da Rocketseat 😄
 
